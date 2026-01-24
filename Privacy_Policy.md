@@ -13,7 +13,12 @@ The Bot May Collect The Following Types Of Information:
  •	Discord User ID: Used For Unique User Identification, Economy Balances, Game Progress, And User Preferences.
 
  •	Server Information: Includes Server ID, Name, And Member List For Features Such As Welcome Messages, Moderation Tools, And Server-Specific Settings.
-	
+
+•	Message Content (Limited Use)
+Message Content Is Accessed Only When Required To Process Prefix Commands, Moderation Actions, Or User-initiated Features.
+
+Message Content Is Not Stored, Logged, Or Retained After The Command Or Action Completed.
+
  •	Usage Data: Information About Executed Commands, Button Clicks, And Other Bot Interactions To Improve Functionality And Track Feature Usage.
 
 # Use Of Information
