@@ -1,8 +1,8 @@
-# Tev Don Bot Privacy Policy
+# Bless Privacy Policy
 
-Last Updated: July 30, 2025
+Last Updated: May 15, 2026
 
-This Document Outlines The Privacy Policy For The Discord Bot Tev Don Bot And Its Associated Services Provided By The Developer.
+This Document Outlines The Privacy Policy For The Discord Bot Bless And Its Associated Services Provided By The Developer.
 
 
 # Information Collected
